@@ -75,6 +75,9 @@ body {
     margin: auto;
     display: block;
   }
+  #iFrameToggle:hover {
+    color: yellow;
+  }
   #content2 {
     display: none;
   }
