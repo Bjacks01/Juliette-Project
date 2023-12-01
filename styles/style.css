@@ -68,14 +68,14 @@ body {
     margin: auto;
     margin-bottom: 50px;
   }
-  #iFrameToggle {
+  #iFrameBtns {
     background-color:#429282;
     color: white;
     width: 200px;
     margin: auto;
     display: block;
   }
-  #iFrameToggle:hover {
+  #iFrameBtns:hover {
     color: yellow;
   }
   #content2 {
